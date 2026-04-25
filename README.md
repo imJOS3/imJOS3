@@ -1,12 +1,43 @@
-- 👋 Hello, I'm @imJOS3
-- 👀 I am interested in web application development.
-- 🌱 I am currently learning...
-- 💞️ I am looking to collaborate in...
-- 📫 How to contact me...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👨‍💻 JOS3
 
-<!---
-imJOS3/imJOS3 is a special ✨ repository ✨ because its `README.md` (this file) appears in your GitHub profile.
-You can click the Preview link to see the changes.
---->
+💡 Software Engineering Student
+🚀 Fullstack Developer in progress
+🔥 Building real-world systems, not just tutorials
+
+---
+
+## ⚡ About Me
+
+* 🧠 I enjoy understanding how things work under the hood
+* ⚙️ Currently focused on backend development
+* 🌱 Always learning and improving every day
+* 🎯 Goal: Become a strong and professional software engineer
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+Node.js • Express • Java • Spring Boot
+
+**Frontend**
+React • Vue • Angular • Typescript • Tailwind CSS
+
+**Database**
+PostgreSQL • MySQL
+
+**Tools**
+Docker • Git • Linux
+
+---
+
+## 🎯 Interests
+
+* 🌍 Technology applied to real-world problems
+* 🎮 Video games & interactive systems
+* 🧠 Continuous learning and self-improvement
+* ⚡ Building scalable backend systems
+
+##
+
+> “I just like technology.”
