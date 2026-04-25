@@ -1,5 +1,4 @@
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_imJOS3&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imJOS3&layout=compact&theme=tokyonight)
 
 # 👨‍💻 JOS3
 
