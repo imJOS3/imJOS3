@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jose Benjumea · JOS3
 
-**Software Engineering Student · Fullstack Developer**
+**Software Engineering  · Fullstack Developer**
 
 Building real-world systems — backend-focused, product-minded.
 
