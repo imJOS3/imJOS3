@@ -6,7 +6,7 @@
 
 Building real-world systems — backend-focused, product-minded.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josebenjumea.site-0B3D91?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josebenjumea.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josebenjumea.dev-0B3D91?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josebenjumea.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Benjumea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-benjumea-5167b8271/)
 [![GitHub](https://img.shields.io/badge/GitHub-imJOS3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imJOS3)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josebenjuema2005@gmail.com)
@@ -32,7 +32,7 @@ Building real-world systems — backend-focused, product-minded.
 
 | | |
 |:--|:--|
-| 🌐 Portfolio | [josebenjumea.site](https://josebenjumea.site) |
+| 🌐 Portfolio | [josebenjumea.dev](https://josebenjumea.dev) |
 | 💼 LinkedIn | [jose-benjumea](https://www.linkedin.com/in/jose-benjumea-5167b8271/) |
 | 📬 Email | [josebenjuema2005@gmail.com](mailto:josebenjuema2005@gmail.com) |
 | 🐙 GitHub | [imJOS3](https://github.com/imJOS3) |
@@ -75,7 +75,7 @@ Building real-world systems — backend-focused, product-minded.
 | **Old West** | Game / interactive systems | [imJOS3/old-west-](https://github.com/imJOS3/old-west-) |
 | **Agencia de eventos** | ERP · Java/Spring microservices | [imJOS3/Event-Agency-msvc](https://github.com/imJOS3/Event-Agency-msvc) |
 
-More on my site → [josebenjumea.site](https://josebenjumea.site)
+More on my site → [josebenjumea.dev](https://josebenjumea.dev)
 
 ---
 
